@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9E3E-0C6C
+
+ Directory of C:\Users\pavan\Desktop\JenkinsProj1
+
+05/30/2018  10:52 PM    <DIR>          .
+05/30/2018  10:52 PM    <DIR>          ..
+05/30/2018  10:47 PM               672 Hello.class
+05/30/2018  10:33 PM               145 Hello.java
+05/30/2018  10:28 PM               680 HelloTest.class
+05/24/2018  05:08 PM               149 HelloTest.java
+05/30/2018  10:50 PM                 0 index.html
+05/30/2018  10:52 PM                 0 index.txt
+               6 File(s)          1,646 bytes
+               2 Dir(s)  137,600,634,880 bytes free
